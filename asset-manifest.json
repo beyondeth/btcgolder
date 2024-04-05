@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lastcoins/static/css/main.5f527649.css",
-    "main.js": "/lastcoins/static/js/main.e5fcce0f.js",
-    "index.html": "/lastcoins/index.html",
-    "main.5f527649.css.map": "/lastcoins/static/css/main.5f527649.css.map",
-    "main.e5fcce0f.js.map": "/lastcoins/static/js/main.e5fcce0f.js.map"
+    "main.css": "/btcgolder/static/css/main.5f527649.css",
+    "main.js": "/btcgolder/static/js/main.b25e7223.js",
+    "index.html": "/btcgolder/index.html",
+    "main.5f527649.css.map": "/btcgolder/static/css/main.5f527649.css.map",
+    "main.b25e7223.js.map": "/btcgolder/static/js/main.b25e7223.js.map"
   },
   "entrypoints": [
     "static/css/main.5f527649.css",
-    "static/js/main.e5fcce0f.js"
+    "static/js/main.b25e7223.js"
   ]
 }
